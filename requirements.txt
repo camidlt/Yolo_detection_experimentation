@@ -5,5 +5,5 @@ timm==0.9.12
 Pillow==10.2.0
 numpy==1.26.4
 yt-dlp==2024.3.10
-ultralytics==8.1.28
+ultralytics==8.3.149
 opencv-python==4.9.0.80 
