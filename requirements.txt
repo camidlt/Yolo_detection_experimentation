@@ -1,0 +1,9 @@
+streamlit==1.32.0
+torch==2.2.0
+torchvision==0.17.0
+timm==0.9.12
+Pillow==10.2.0
+numpy==1.26.4
+yt-dlp==2024.3.10
+ultralytics==8.1.28
+opencv-python==4.9.0.80 
